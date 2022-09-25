@@ -1,4 +1,4 @@
-package com.divyanshu.groceryapp
+package com.sonalipriya.groceryapp
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity
